@@ -1,9 +1,9 @@
 name: oneuix
 description: "OneUIX — Universal Flutter Design System + UI SDK with tokens, components, and reusable UI patterns."
 version: 0.0.1
-homepage: https://github.com/oneuix/oneuix
-repository: https://github.com/oneuix/oneuix
-issue_tracker: https://github.com/oneuix/oneuix/issues
+homepage: https://github.com/iamrama/oneuix-
+repository: https://github.com/iamrama/oneuix-
+issue_tracker: https://github.com/iamrama/oneuix-/issues
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
